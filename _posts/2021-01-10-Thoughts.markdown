@@ -3,7 +3,6 @@ title:  "Blog Post 1/10/22 - AIME Problems"
 date:   2022-01-10 12:18:26 -0500
 categories:
 tags: [aime, geo, combinatorics]
-permalink: /Jan10th/
 ---
   <iframe src="\assets\pdfposts\Math_Diary_01_10_21.pdf" width="100%" height="800px">
   </iframe>

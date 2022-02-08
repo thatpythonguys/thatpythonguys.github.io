@@ -3,7 +3,6 @@ title:  "Thoughts on 1/08/22"
 date:   2022-01-08 12:18:26 -0500
 categories: [napkin, linalg]
 tags: napkin linalg death despair
-permalink: /Jan8th/
 img_path: /assets/pdfposts/
 ---
 

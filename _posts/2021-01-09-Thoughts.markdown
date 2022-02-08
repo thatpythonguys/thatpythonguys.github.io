@@ -3,7 +3,6 @@ title:  "Thoughts on 1/09/22"
 date:   2022-01-09 12:18:26 -0500
 categories: [napkin, linalg, oly]
 tags: napkin linalg oly
-permalink: /Jan9th/
 img_path: \assets\pdfposts
 ---
 
