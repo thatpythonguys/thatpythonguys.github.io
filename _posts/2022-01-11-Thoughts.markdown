@@ -3,6 +3,7 @@ title:  "Blog Post 1/11/22 - More AIME Problems"
 date:   2022-01-10 12:18:26 -0500
 categories:
 tags: [aime, geo, venn diagram, sets, recursion, trig]
+permalink: /Jan11th/
 ---
   <iframe src="\assets\pdfposts\Math_Diary_01_11_22.pdf" width="100%" height="800px">
   </iframe>
