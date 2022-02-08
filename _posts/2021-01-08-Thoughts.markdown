@@ -1,0 +1,23 @@
+---
+title:  "Thoughts on 1/08/22"
+date:   2022-01-08 12:18:26 -0500
+categories: [napkin, linalg]
+tags: napkin linalg death despair
+permalink: /Jan8th/
+img_path: /assets/pdfposts/
+---
+
+  <iframe src="/assets\img\Math_Diary_01_07_21.pdf" width="100%" height="800px">
+  </iframe>
+
+
+Hey guys, what's up! This is our first blog. We'll be posting them as LaTex docs for now!
+
+Note from Pramana - Stay tuned for more! I can't guarantee daily, but very frequently I will upload my notes from the day.
+
+<p>
+Tags:
+{% for tag in page.tags %}
+  {{ tag }}
+{% endfor %}
+</p>

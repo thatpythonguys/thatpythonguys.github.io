@@ -1,0 +1,20 @@
+---
+title:  "Blog Post 1/11/22 - More AIME Problems"
+date:   2022-01-10 12:18:26 -0500
+categories:
+tags: [aime, geo, venn diagram, sets, recursion, trig]
+permalink: /Jan11th/
+---
+  <iframe src="\assets\pdfposts\Math_Diary_01_11_22.pdf" width="100%" height="800px">
+  </iframe>
+
+More AIME problems from the set I created. There are a few more, but drawing diagrams with asy is terrible.
+I wish overleaf had any sort of linter for asymptote.
+No AIME results yet guys, I'm running out of hope for MAA.
+
+<p>
+Tags:
+{% for tag in page.tags %}
+  {{ tag }}
+{% endfor %}
+</p>

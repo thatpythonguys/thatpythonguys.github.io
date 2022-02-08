@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+A couple of guys working out of the proverbial shed on a revolutionary set of next generation radar detectors.
