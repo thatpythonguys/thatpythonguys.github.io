@@ -6,11 +6,11 @@ categories:
 tags: [geo, centroid, sets, number theory, physics, light, 3dgeo]
 permalink: /Feb9th/
 ---
-# IMTC Winter 2022 Results
+## IMTC Winter 2022 Results
 30/150 Lol... higher than average score on the geo problems though.
 Will post writeups on the interesting problems soon.
 
-# AIME Problems
+## AIME Problems
 
   <iframe src="\assets\pdfposts\Math_Diary_02_09_2022.pdf" width="100%" height="800px"> </iframe> 
 
