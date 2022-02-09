@@ -3,7 +3,7 @@ layout: default
 title:  "Blog Post 02/09/22 - IMTC Results; AIME Prep"
 date:   2022-02-09 12:18:26 -0500
 categories: 
-tags: geo, centroid, sets, number theory, physics, light, 3dgeo
+tags: [geo, centroid, sets, number theory, physics, light, 3dgeo]
 permalink: /Feb9th/
 ---
 # IMTC Winter 2022 Results
