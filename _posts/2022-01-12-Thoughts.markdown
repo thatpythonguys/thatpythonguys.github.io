@@ -10,10 +10,3 @@ permalink: /Jan12th/
 
 I failed most of these. I need to work on getting better intuition for these problems.
 The first one was fun to solve though.
-
-<p>
-Tags:
-{% for tag in page.tags %}
-  {{ tag }}
-{% endfor %}
-</p>

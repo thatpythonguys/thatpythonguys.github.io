@@ -9,10 +9,3 @@ permalink: /Jan10th/
   </iframe>
 
 A few AIME problems to prepare. It is a crime that MAA still haven't released results.
-
-<p>
-Tags:
-{% for tag in page.tags %}
-  {{ tag }}
-{% endfor %}
-</p>

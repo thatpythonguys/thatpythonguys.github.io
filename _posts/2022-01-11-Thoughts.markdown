@@ -11,10 +11,3 @@ permalink: /Jan11th/
 More AIME problems from the set I created. There are a few more, but drawing diagrams with asy is terrible.
 I wish overleaf had any sort of linter for asymptote.
 No AIME results yet guys, I'm running out of hope for MAA.
-
-<p>
-Tags:
-{% for tag in page.tags %}
-  {{ tag }}
-{% endfor %}
-</p>
