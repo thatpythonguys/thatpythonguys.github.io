@@ -23,10 +23,10 @@ title: ThatPythonGuys                          # the main title
 tagline: Good Notes.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A comprehensive place to fulfill all your note needs.
+  A comprehensive place to fulfill all your high school note needs. We plan to cover AMC, AIME, USABO, and AP material.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://thatpythonguys.github.io'
 
 github:
   username: thatpythonguys             # change to your github username
@@ -42,7 +42,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://thatpythonguys.com/username       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -52,7 +52,7 @@ google_site_verification: EwwEfD7iBQjFV_A6XQ5Zy_x5cvFMUBpRV1tznqLOINQ # change t
 
 
 google_analytics:
-  id: 'UA-168538273-1'              # fill in your Google Analytics ID
+  id: 'G-JTBPKGWKS5'              # fill in your Google Analytics ID
   # Google Analytics pageviews report settings
   pv:
     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
@@ -85,10 +85,10 @@ avatar: '/assets/img/avatar.jpg'
 toc: true
 
 comments:
-  active:         # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
+  active: 'disqus'     # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
   # The active options are as follows:
   disqus:
-    shortname:    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+    shortname: 'thatpythonguys'    # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
     repo:         # <gh-username>/<repo>
