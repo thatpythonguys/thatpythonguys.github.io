@@ -57,7 +57,7 @@ A_{m,n} =
 a_{11} & a_{12} & \cdots & a_{1n} & b_{1}\\
 a_{21} & a_{22} & \cdots & a_{2n} & b_{2}\\
 \vdots  & \vdots  & \ddots & \vdots & \vdots \\
-a_{m1} & a_{m2} & \cdots & a_{mn} & b{m}
+a_{m1} & a_{m2} & \cdots & a_{mn} & b_{m}
 \end{bmatrix}
 \end{equation*}
 $$
@@ -70,23 +70,23 @@ In fact, the augmented matrix and vector equations are exactly equivalent forms!
 
 $$
 \begin{align*}
-x1
+x_1
 \begin{bmatrix}
  a_{11} \\           
  \vdots \\
- a_{n1}
+ a_{m1}
 \end{bmatrix} +
-x2
+x_2
 \begin{bmatrix}
  a_{12} \\           
  \vdots \\
- a_{n2}
+ a_{m2}
 \end{bmatrix} +
-x3
+x_3
 \begin{bmatrix}
  a_{1m} \\           
  \vdots \\
- a_{nm}
+ a_{mn}
 \end{bmatrix} =
 
 \begin{bmatrix}
@@ -106,6 +106,6 @@ A\vec{x} = \vec{b}
 \end{align*}
 $$
 
-A is the coefficient matrix, $\vec{x}$ is a column vector of all your variables and $\vec{b}$ stores the solutions to each equation. Alright, that's all for now. No new thoughts, just figuring out how to write.
+A is the coefficient matrix, $\vec{x}$ is a column vector of all your variables and $\vec{b}$ stores the solutions to each equation. Linear systems of equations, augmented matrices, and vector equations and matrix-vector multiplication are all basically the same thing. Alright, that's all for now. No new thoughts, just figuring out how to write.
 
 Cheers.
