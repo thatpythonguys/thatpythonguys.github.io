@@ -8,6 +8,7 @@ tags: []
 permalink: /Feb15th/
 math: true
 img_path: /assets/img/
+pin: true
 ---
 ![The llamas](IMG-3749.jpg){: width="300" height="200" }
 _LLamas_
