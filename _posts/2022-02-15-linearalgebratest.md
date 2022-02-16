@@ -16,7 +16,7 @@ _LLamas_
 Hello! This is my first real post, so this is going to mostly just be a test of my Markdown abilities.
 
 
-Anways I thought it was interesting how repetitive the introduction of linear algebra can be. That's not to say that repititive, it's just that we've found a lot of ways to essentially say the same thing.
+Anyways I thought it was interesting how repetitive the introduction of linear algebra can be. That's not to say that the repetition is bad, it's just that we've found a lot of ways to essentially say the same thing.
 
 Consider a system of $m$ equations with $n$ variables:
 
