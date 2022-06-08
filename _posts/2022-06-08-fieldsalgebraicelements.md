@@ -68,6 +68,7 @@ Now think about the beginning question, what polynomial has a root of
 $\sqrt2+\sqrt3$? Well a good starting point, like the last one,
 was to let $x=\sqrt2+\sqrt3$, and try to create a polynomial with
 integer roots out of it. The process is as follows:
+
 $$
 \begin{align*}
 x &= \sqrt2+\sqrt3 \\
