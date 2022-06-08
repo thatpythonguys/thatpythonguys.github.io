@@ -8,7 +8,7 @@ tags: []
 permalink: /Feb15th/
 math: true
 img_path: /assets/img/
-pin: true
+pin: false
 ---
 ![The llamas](IMG-3749.jpg){: width="300" height="200" }
 _LLamas_
@@ -73,25 +73,25 @@ $$
 \begin{align*}
 x_1
 \begin{bmatrix}
- a_{11} \\           
+ a_{11} \\
  \vdots \\
  a_{m1}
 \end{bmatrix} +
 x_2
 \begin{bmatrix}
- a_{12} \\           
+ a_{12} \\
  \vdots \\
  a_{m2}
 \end{bmatrix} +
 x_3
 \begin{bmatrix}
- a_{1m} \\           
+ a_{1m} \\
  \vdots \\
  a_{mn}
 \end{bmatrix} =
 
 \begin{bmatrix}
- b_{1} \\           
+ b_{1} \\
  \vdots \\
  b_{m}
 \end{bmatrix}
