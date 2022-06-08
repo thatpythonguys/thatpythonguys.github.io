@@ -77,6 +77,7 @@ x^2 -1 &= 2\sqrt2x \\
 x^4-10x^2+1&=0
 \end{align*}
 $$
+
 Our desired polynomial is $x^4-10x^2+1$. Checking that this
 is irreducible is important, but I won't cover it here,
 (see [Einsenstein's Irreducibility Criterion](https://en.wikipedia.org/wiki/Eisenstein%27s_criterion)). Once we know it is irreducible,
