@@ -11,7 +11,7 @@ img_path: /assets/img/
 pin: false
 ---
 ![The llamas](IMG-3749.jpg){: width="300" height="200" }
-_LLamas_
+_Llamas_
 
 
 Hello! This is my first real post, so this is going to mostly just be a test of my Markdown abilities.
