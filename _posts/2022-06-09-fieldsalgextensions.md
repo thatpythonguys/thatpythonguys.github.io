@@ -1,7 +1,7 @@
 ---
 author:
   name: Pramana
-title:  "Fields - Algebraic Elements"
+title:  "Fields - Extensions and Degrees"
 date:   2022-06-09 10:00:00 -0500
 categories: [Fun, Abstract Algebra]
 tags: [fields, algebra, linalg]
