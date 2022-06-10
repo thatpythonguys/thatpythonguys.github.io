@@ -8,3 +8,4 @@ permalink: /categorieslist/
         "{{ category | first }}"{% unless forloop.last %},{% endunless %}
         {% endfor %}
     ]
+}
