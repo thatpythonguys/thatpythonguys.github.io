@@ -1,5 +1,6 @@
 ---
 layout: null
+permalink: /categorieslist/
 ---
 {
     "categories": [
@@ -7,4 +8,3 @@ layout: null
         "{{ category | first }}"{% unless forloop.last %},{% endunless %}
         {% endfor %}
     ]
-  
