@@ -1,10 +1,15 @@
 ---
 author:
   name: Pramana
-title:  "Fields - Extensions and Degrees"
-date:   2022-06-09 10:00:00 -0500
-categories: [Fun, Abstract Algebra]
-tags: [fields, algebra, linalg]
+title: Fields - Extensions and Degrees
+date: '2022-06-09 10:00:00 -0500'
+categories:
+  - Fun
+  - Abstract Algebra
+tags:
+  - fields
+  - algebra
+  - linalg
 permalink: /Jun9th/
 math: true
 img_path: /assets/img/
@@ -45,7 +50,7 @@ but can be used to come to different conclusions from the eyes of groups.
 > ##### Theorem 1: Multiplicativity Formula for Degrees
 >
 > Let $E$ be an field extension of $K$ and $F$
-> be a field extension of $E$. Then, $$ [F:K] = [F:E][E:K]$$
+> be a field extension of $E$. Then, $$[F:K] = [F:E][E:K]$$
 
 The real interesting part of this for me (and why I'm writing this
 in the first place) is the fact that the proof uses basic concepts
