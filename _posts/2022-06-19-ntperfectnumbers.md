@@ -2,7 +2,7 @@
 author:
   name: Pramana
 title: Number Theory - Perfect Numbers
-date: '2022-06-15 10:00:00 -0500'
+date: '2022-06-19 10:00:00 -0500'
 categories:
   - Fun
   - Number Theory
