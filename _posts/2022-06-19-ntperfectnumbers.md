@@ -35,7 +35,7 @@ $n$, a positive integer.
 > $\sigma(n)=2n$.
 
 Notice that $\sigma(n)$ is **multiplicative**, meaning that for positive
-integers $m$ and $n$, if their greatest common divisor is $0$, then 
+integers $m$ and $n$, if their greatest common divisor is $1$, then 
 $\sigma(mn)=\sigma(m)\sigma(n)$.
 
 ## Creating Perfect Numbers
@@ -93,7 +93,7 @@ $$
 $$
 
 So the sum of divisors will always be more than $2n$. This means that the
-number cannot be perfect, finishing the proof
+number cannot be perfect, finishing the proof.
 $\blacksquare$
 
 ### So we can create as many as we want right?
