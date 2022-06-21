@@ -15,7 +15,7 @@ img_path: /assets/img/
 pin: false
 ---
 
-**Perfects numbers** are a highly studied subset of the positive integers
+**Perfect numbers** are a highly studied subset of the positive integers
 that relate to our understanding of number theory. 
 
 I will show a proof of the structure of all **even** perfect numbers,
