@@ -28,7 +28,6 @@ a_{21}x_1 + a_{22}x_2 + a_{23}x_3 + \cdots + a_{2m}x_n = b_2 \\
 a_{31}x_1 + a_{32}x_2 + a_{33}x_3 + \cdots + a_{3m}x_n = b_3 \\
 \vdots \\
 a_{m1}x_1 + a_{m2}x_2 + a_{m3}x_3 + \cdots + a_{mn}x_n = b_m
-
 \end{gather*}
 $$
 

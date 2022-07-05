@@ -12,7 +12,7 @@ tags:
 permalink: /Jul4th/
 math: true
 img_path: /assets/img/
-pin: false
+pin: true
 ---
 
 Simply put, a basis in mathematics is the simplest way to represent something, be it a set, object, anything! However, in looking into how several fields of mathematics define a basis, it can turn out very different, and it is entirely dependent on the mathematical idea that the field is studying. So lets start with the basis that most entry-level mathematicians should be familiar with.
