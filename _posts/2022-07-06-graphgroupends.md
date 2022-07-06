@@ -1,7 +1,7 @@
 ---
 author:
   name: Pramana
-title: Graph Ends, and Their Purpose in Geometric Group Theory
+title: Graph Ends and Their Purpose in Geometric Group Theory
 date: '2022-07-06 00:10'
 categories:
   - Research
