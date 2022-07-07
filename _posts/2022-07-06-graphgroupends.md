@@ -62,7 +62,7 @@ It should be clear now that any finite graph has $0$ ends, because we definitely
 
 Let's make a cut on the rope:
 
-![rope cuts](\../assets/img/Screen%20Shot%202022-07-06%20at%2012.25.04%20AM%20Copy.png){: width="300" height="100" }
+![rope cuts](\../assets/img/ballcutting.png){: width="300" height="100" }
 _Figure 3: A rope cut_
 
 If we remove all the edges on that ball, then we end up with two infinite sets that aren't connected to each other. It makes sense as we increase the radius of the ball, centered at the same point, we would still have two disconnected, infinite sets. Therefore, the infinite rope has two ends. 
