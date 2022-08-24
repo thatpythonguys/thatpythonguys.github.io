@@ -23,7 +23,7 @@ title: ThatPythonGuys                          # the main title
 tagline: Good Notes.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A comprehensive place to fulfill all your high school note needs. We plan to cover AMC, AIME, USABO, and AP material.
+  A (mainly) mathematics blog aimed towards high schoolers and undergraduates interested in post-calculus studies.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://thatpythonguys.github.io'
