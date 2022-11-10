@@ -4,7 +4,6 @@ author:
 title: Fields - Finite Fields
 date: '2022-06-15 10:00:00 -0500'
 categories:
-  - Fun
   - Abstract Algebra
 tags:
   - fields
