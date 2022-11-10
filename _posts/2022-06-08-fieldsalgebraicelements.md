@@ -3,7 +3,7 @@ author:
   name: Pramana
 title:  "Fields - Algebraic Elements"
 date:   2022-06-08 7:01:26 -0500
-categories: [Fun, Abstract Algebra]
+categories: [Abstract Algebra]
 tags: [fields, transcendentals]
 permalink: /Jun8th/
 math: true
