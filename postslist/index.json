@@ -1,0 +1,77 @@
+{
+    "posts": [
+        
+        {
+            "title": "Group Structures",
+            "url": "https://thatpythonguys.github.io/Nov9th/",
+            "date": "2022-11-09T08:11:00-06:00"
+        },
+        
+        {
+            "title": "My Abstract Algebra Notes + Thoughts on LaTeX Notes (~1/2 a year in)",
+            "url": "https://thatpythonguys.github.io/Aug24th/",
+            "date": "2022-08-24T15:49:00-05:00"
+        },
+        
+        {
+            "title": "Graph Ends and Their Purpose in Geometric Group Theory",
+            "url": "https://thatpythonguys.github.io/Jul6th/",
+            "date": "2022-07-06T00:10:00-05:00"
+        },
+        
+        {
+            "title": "What is a basis? It's complicated...",
+            "url": "https://thatpythonguys.github.io/Jul4th/",
+            "date": "2022-07-04T14:06:00-05:00"
+        },
+        
+        {
+            "title": "DeMorgan's Law",
+            "url": "https://thatpythonguys.github.io/Jun28th/",
+            "date": "2022-06-28T10:00:00-05:00"
+        },
+        
+        {
+            "title": "Number Theory - Perfect Numbers",
+            "url": "https://thatpythonguys.github.io/Jun19th/",
+            "date": "2022-06-19T10:00:00-05:00"
+        },
+        
+        {
+            "title": "Fields - Finite Fields",
+            "url": "https://thatpythonguys.github.io/Jun15th/",
+            "date": "2022-06-15T10:00:00-05:00"
+        },
+        
+        {
+            "title": "Fields - Extensions and Degrees",
+            "url": "https://thatpythonguys.github.io/Jun9th/",
+            "date": "2022-06-09T10:00:00-05:00"
+        },
+        
+        {
+            "title": "Fields - Algebraic Elements",
+            "url": "https://thatpythonguys.github.io/Jun8th/",
+            "date": "2022-06-08T07:01:26-05:00"
+        },
+        
+        {
+            "title": "Linear Algebra - Playing with Markdown and LaTeX",
+            "url": "https://thatpythonguys.github.io/Feb15th/",
+            "date": "2022-02-15T06:01:26-06:00"
+        },
+        
+        {
+            "title": "Blog Post 02/12/22 - Math League #5 Write-ups",
+            "url": "https://thatpythonguys.github.io/Feb12th/",
+            "date": "2022-02-12T11:18:26-06:00"
+        },
+        
+        {
+            "title": "Blog Post 02/05/22 - AIME Mock Reflections",
+            "url": "https://thatpythonguys.github.io/Feb5th/",
+            "date": "2022-02-05T11:18:26-06:00"
+        }
+        
+    ]
+}
